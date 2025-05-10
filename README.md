@@ -17,4 +17,4 @@ A complete MySQL database for managing library operations including:
    mysql -u your_username -p < library_db.sql
 
 
-   ![alt text](image.png) 
+   
